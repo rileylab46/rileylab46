@@ -1,16 +1,19 @@
-## Hi there 👋
+### hey, i'm riley (@rileylab46)
 
-<!--
-**rileylab46/rileylab46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+systems programmer based in zurich. mostly hacking on rust internals, low-level tooling, and experimental wasm runtimes.
 
-Here are some ideas to get you started:
+#### what i'm doing
+- writing high-performance network primitives in rust and c
+- profiling linux kernel bypass stuff (io_uring, ebpf experiments)
+- compiling weird state machines to webassembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### toolchain
+- **languages**: Rust, C, WebAssembly (WAT), Bash
+- **core**: Linux, Neovim, Git, GDB, Perf
+- **interests**: deterministic systems, memory models, distributed storage
+
+#### reach out
+- email: `rileylab46 [at] proton.me`
+- matrix: `@riley:matrix.org`
+
+not looking for full-stack gigs. open to low-level infra, compilers, or systems performance work.
